@@ -15,10 +15,9 @@ This repository contains the laboratory work for the ALGO-LAB course. Each lab f
 - **Algorithms:** Array vs List.
 - **Key Concepts:** Memory allocation.
 
-### Lab 3: Recursion and Backtracking
-- **Topics:** Understanding recursion, backtrack algorithms.
-- **Algorithms:** N-Queens problem, Sudoku solver.
-- **Key Concepts:** Call stack.
+### Lab 3: Growth of Function
+- **Topics:** Understanding function, matplotlib.
+  
 
 ### Lab 4: Searching Algorithms
 - **Topics:** Different searching techniques.
